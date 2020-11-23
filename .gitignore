@@ -1,0 +1,5 @@
+# all files unneeded to be tracked
+
+.DS_Store
+# ignore tracking node_modules, everytime node package manager installs dependencies (pretty big file)
+node_modules/
